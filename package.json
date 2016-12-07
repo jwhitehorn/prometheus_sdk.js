@@ -1,0 +1,13 @@
+{
+  "name": "prometheus_sdk",
+  "description": "Prometheus SDK in JS",
+  "version": "1.0.0",
+  "author": "Jason Whitehorn",
+  "license": "BSD",
+  "homepage": "https://github.com/jwhitehorn/prometheus_sdk.js",
+  "main": "lib/main.js",
+  "dependencies": {
+    "async": "2.1.4",
+    "request": "2.79.0"
+  }
+}
